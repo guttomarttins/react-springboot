@@ -1,3 +1,15 @@
+Antes de começar a codificar neste projeto, utilize o comando 
+
+npm install
+
+desta forma a pasta node_modules será gerada e baixará todas as dependências.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
